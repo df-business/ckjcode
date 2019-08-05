@@ -5,7 +5,8 @@ header-img: img/post-bg-desk.jpg
 email: ischeng.kejun@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 记得要让着本宝宝的博客"
-url: "http://ckjcode.gitee.io"          # your host, for absolute URL
+#url: "http://ckjcode.gitee.io" 
+url: "/"         # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://gitee.com/ckjcode/ckjcode.gitee.io.git" # you code repository
 
