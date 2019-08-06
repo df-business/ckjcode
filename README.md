@@ -1,6 +1,4 @@
-
-
-![输入图片说明](https://gitee.com/ckjcode/ckjcode/blob/master/img/logo.png "logo.png")
+![logo](https://images.gitee.com/uploads/images/2019/0806/102334_da2e0dde_1593966.jpeg "logo2.jpg")
 [![Build Status](https://travis-ci.org/qiubaiying/qiubaiying.github.io.svg?branch=master)](https://travis-ci.org/qiubaiying/qiubaiying.github.io)
 [![codebeat badge](https://codebeat.co/badges/5f031df3-f6c1-4ec0-911a-ff6617ca50b9)](https://codebeat.co/projects/github-com-qiubaiying-qiubaiying-github-io-master)
 [![GitHub issues](https://img.shields.io/github/issues/qiubaiying/qiubaiying.github.io.svg?style=flat)](https://github.com/qiubaiying/qiubaiying.github.io/issues)
