@@ -1,9 +1,9 @@
 ![logo](https://images.gitee.com/uploads/images/2019/0806/102334_da2e0dde_1593966.jpeg "logo2.jpg")
-[![codebeat badge](https://codebeat.co/badges/5f031df3-f6c1-4ec0-911a-ff6617ca50b9)](https://codebeat.co/projects/github-com-qiubaiying-qiubaiying-github-io-master)
-[![GitHub issues](https://img.shields.io/github/issues/qiubaiying/qiubaiying.github.io.svg?style=flat)](https://gitee.com/ckjcode/ckjcode/issues)
+[![codebeat badge](https://codebeat.co/badges/5f031df3-f6c1-4ec0-911a-ff6617ca50b9)](https://codebeat.co/projects/github-com-ckjcode-ckjcode.gitee.io-master)
+[![GitHub issues](https://img.shields.io/github/issues/ckjcode/ckjcode.gitee.io.svg?style=flat)](https://gitee.com/ckjcode/ckjcode/issues)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/home-assistant/home-assistant-iOS/blob/master/LICENSE)
-[![](https://img.shields.io/github/stars/qiubaiying/qiubaiying.github.io.svg?style=social&label=Star)](https://gitee.com/ckjcode/ckjcode)
-[![](https://img.shields.io/github/forks/qiubaiying/qiubaiying.github.io.svg?style=social&label=Fork)](https://gitee.com/ckjcode/ckjcode)
+[![](https://img.shields.io/github/stars/ckjcode/ckjcode.gitee.io.svg?style=social&label=Star)](https://gitee.com/ckjcode/ckjcode)
+[![](https://img.shields.io/github/forks/ckjcode/ckjcode.gitee.io.svg?style=social&label=Fork)](https://gitee.com/ckjcode/ckjcode)
 
 
 >
@@ -46,11 +46,11 @@
 ```
 # Site settings
 title: BY Blog                    # 你的博客网站标题
-SEOTitle: 柏荧的博客 | BY Blog		# SEO 标题
+SEOTitle: 记得要让着本宝宝的博客 | BY Blog		# SEO 标题
 description: "Hey"	   	   # 随便说点，描述一下
 
 # SNS settings      
-github_username: qiubaiying     # 你的github账号
+github_username: ckjcode     # 你的github账号
 jianshu_username: e71990ada2fd  # 你的简书ID。
 
 # Build settings
@@ -233,7 +233,7 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 
 ### SEO Title
 
-我的博客标题是 **“BY Blog”** 但是我想要在搜索的时候显示 **“柏荧的博客 | BY Blog”** ，这个就需要 SEO Title 来定义了。
+我的博客标题是 **“BY Blog”** 但是我想要在搜索的时候显示 **“记得要让着本宝宝的博客 | BY Blog”** ，这个就需要 SEO Title 来定义了。
 
 其实这个 SEO Title 就是定义了<head><title>标题</title></head>这个里面的东西和多说分享的标题，你可以自行修改的。
 
@@ -285,7 +285,7 @@ tags:
 
 在手机上的布局：
 
-[![](http://upload-images.jianshu.io/upload_images/2178672-d58bb45f9faedb70.jpg)](http://qiubaiying.github.io/)
+[![](http://upload-images.jianshu.io/upload_images/2178672-d58bb45f9faedb70.jpg)](http://ckjcode.gitee.io/)
 
 废话不多说了，开始进入正文。
 
@@ -441,7 +441,7 @@ jianshu_username:	jianshu_id
 
 ```
 # Disqus settings（https://disqus.com/）
-disqus_username: qiubaiying
+disqus_username: ckjcode
 ```
 
 > 很对人反映 Disqus 评论插件加载不出来，因为 Disqus 在国内加载缓慢，所以我新集成了 Gitalk 评论插件（感谢[@FeDemo](https://github.com/FeDemo)的推荐），喜欢折腾的朋友可以看这篇：[《为博客添加 Gitalk 评论插件》](http://ckjcode.gitee.io/2017/12/19/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/)。 我已经在`_config.yml` 配置就好了，只需要填写参数可以了。
