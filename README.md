@@ -319,7 +319,6 @@ tags:
 <p id = "Rename"></p>
 修改仓库名为 `你的Gitee账号名`，然后 Rename
 
-![](http://upload-images.jianshu.io/upload_images/2178672-ca3d843e526cdd5b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 这时你在在浏览器中输入 `你的Github账号名.gitee.io` 例如:`ckjcode.gitee.io`
 
@@ -498,15 +497,14 @@ friends: [
 ## 创建
 文章统一放在网站根目录下的 `_posts` 的文件夹中。
 
-![](http://upload-images.jianshu.io/upload_images/2178672-fb74cdc11a950bd4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/2178672-fb74cdc11a950bd4.jpg?imageMogr2/auto-orient/strip%7Cimag![输入图片说明](https://images.gitee.com/uploads/images/2019/0806/111015_f9478619_1593966.png "post.png")
 
 创建一个文件
 
-![](http://upload-images.jianshu.io/upload_images/2178672-9a47b2074362e570.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0806/111126_5fa14c15_1593966.png "333.png")
 
 在下面写文章，和标题，还能实时预览，最后提交保存就能看到自己的新文章了。
 
-![](http://upload-images.jianshu.io/upload_images/2178672-88acd9e29fa3ae8a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ## 格式
@@ -543,7 +541,6 @@ tags:								#标签
 
 按格式创建文章后，提交保存。进入你的博客主页，新的文章将会出现在你的主页上.
 
-![](http://upload-images.jianshu.io/upload_images/2178672-f4d5bb65ae3abd00.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 到这里，恭喜你！
 
@@ -613,16 +610,14 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 
 记录值就是我们博客的IP地址，是 GitHub Pagas 在美国的服务器的地址 `151.101.100.133`
 
-![](http://upload-images.jianshu.io/upload_images/2178672-0769a93bc487e9d8.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 可以通过 [这个网站](http://ip.chinaz.com/)  或者直接在终端输入`ping 你的地址`，查看博客的IP
 
-	ping qiubaiying.github.io
 
 细心地你会发现所有人的博客都解析到 `151.101.100.133` 这个IP。
 
-然后 GitHub Pages 再通过 CNAME记录 跳转到你的主页上。
+然后 Gitee Pages 再通过 CNAME记录 跳转到你的主页上。
 
 
 #### 修改CNAME
@@ -631,12 +626,7 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 
 选择 **CNAME** 文件
 
-![](http://upload-images.jianshu.io/upload_images/2178672-a422f3dab436dfb7.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-使用的注册的域名进行替换,然后提交保存
-
-![](http://upload-images.jianshu.io/upload_images/2178672-6e613004fb410b44.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+没有的话自己新建一个 
 
 这时，输入你自己的域名，就可以解析到你的主页了。
 
