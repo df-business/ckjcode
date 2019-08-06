@@ -8,7 +8,7 @@ keyword: "BY, BY Blog, 记得要让着本宝宝的博客"
 url: "http://ckjcode.gitee.io"          # your host, for absolute URL
 baseurl: ""
 #baseurl: "/bom" # the subpath of your site, e.g. /blog      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://gitee.com/ckjcode/ckjcode.gitee.io.git" # you code repository
+github_repo: "https://gitee.com/ckjcode/ckjcode" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
