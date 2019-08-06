@@ -744,7 +744,6 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 
 可以看到你提交的详情： `add img` 
 
-![](http://upload-images.jianshu.io/upload_images/2178672-293bdd4cbee0e9e3.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 这样，你已经能轻松管理自己的博客了。
 
@@ -757,15 +756,14 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 # 修改个人介绍
 
 
-![](https://images.gitee.com/uploads/images/2019/0806/105149_169e57f5_1593966.jpeg)
+
 
 修改个人介绍需要修改根目录下的 `about.html` 文件
 
-![](https://images.gitee.com/uploads/images/2019/0806/105149_26b48289_1593966.jpeg)
+
 
 看不懂 HTML 标签？没关系，对照着修改就好了~ 还有注意这个有中英介绍
 
-![](https://images.gitee.com/uploads/images/2019/0806/105149_90dbc49a_1593966.jpeg)
 
 # 常见问题
 
@@ -868,14 +866,10 @@ Configuration file: /Users/baiying/Blog/_config.yml
 
 #### 修改网站的 **icon**
 
-![](https://images.gitee.com/uploads/images/2019/0806/105150_99528274_1593966.jpeg)
 
 要修改如图所示的网站 **icon**：
 
 在博客 `img` 目录下找到并替换 `favicon.ico` 这个图标即可，图标尺寸为`32x32`。
-
-
-![](https://images.gitee.com/uploads/images/2019/0806/105149_5d2f5951_1593966.jpeg)
 
 
 
