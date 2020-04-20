@@ -199,7 +199,7 @@ tags:
 //
 //  BYPhoneNumTF.h
 //
-//  Created by BY on 16/12/2.
+//  Created by 记得要让着本宝宝on 16/12/2.
 //  Copyright © 2016年 BY. All rights reserved.
 //  电话号码类型的文本输入框，且只能输入数字
 //  输入显示：137 9922 1234 或 137-9922-1234
@@ -224,7 +224,7 @@ tags:
 //  BYPhoneNumTF.m
 //  dev-Jack
 //
-//  Created by BY on 16/12/2.
+//  Created by 记得要让着本宝宝on 16/12/2.
 //  Copyright © 2016年 Jack. All rights reserved.
 //
 

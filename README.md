@@ -45,8 +45,8 @@
 
 ```
 # Site settings
-title: BY Blog                    # 你的博客网站标题
-SEOTitle: 记得要让着本宝宝的博客 | BY Blog		# SEO 标题
+title: 记得要让着本宝宝Blog                    # 你的博客网站标题
+SEOTitle: 记得要让着本宝宝的博客 | 记得要让着本宝宝Blog		# SEO 标题
 description: "Hey"	   	   # 随便说点，描述一下
 
 # SNS settings      
@@ -140,7 +140,7 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 # Friends
 friends: [
     {
-        title: "BY Blog",
+        title: "记得要让着本宝宝Blog",
         href: "https://ckjcode.gitee.io/"
     }
 ]
@@ -233,7 +233,7 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 
 ### SEO Title
 
-我的博客标题是 **“BY Blog”** 但是我想要在搜索的时候显示 **“记得要让着本宝宝的博客 | BY Blog”** ，这个就需要 SEO Title 来定义了。
+我的博客标题是 **“记得要让着本宝宝Blog”** 但是我想要在搜索的时候显示 **“记得要让着本宝宝的博客 | 记得要让着本宝宝Blog”** ，这个就需要 SEO Title 来定义了。
 
 其实这个 SEO Title 就是定义了<head><title>标题</title></head>这个里面的东西和多说分享的标题，你可以自行修改的。
 
@@ -277,7 +277,7 @@ tags:
 > [我的的博客](http://ckjcode.gitee.io)
 
 # 前言
-从 Jekyll 到 GitHub Pages 中间踩了许多坑，终于把我的个人博客[BY Blog](http://ckjcode.gitee.io)搭建出来了。。。
+从 Jekyll 到 GitHub Pages 中间踩了许多坑，终于把我的个人博客[记得要让着本宝宝Blog](http://ckjcode.gitee.io)搭建出来了。。。
 
 本教程针对的是不懂技术又想搭建个人博客的小白，操作简单暴力且快速。当然懂技术那就更好了。
 
@@ -392,7 +392,7 @@ SEOTitle: 你的博客 | You Blog    	 #显示在浏览器上搜索的时候显�
 header-img: img/post-bg-rwd.jpg  	#显示在首页的背景图片
 email: You@gmail.com	
 description: "You Blog"  			 #网站介绍
-keyword: "BY, BY Blog, 记得要让着本宝宝的博客, ckjcode,, iOS, Apple, iPhone" #关键词
+keyword: "BY, 记得要让着本宝宝Blog, 记得要让着本宝宝的博客, ckjcode,, iOS, Apple, iPhone" #关键词
 url: "https://ckjcode.gitee.io"          # 这个就是填写你的博客地址
 baseurl: ""      # 这个我们不用填写
 
@@ -526,7 +526,7 @@ layout:     post   				    # 使用的布局（不需要改）
 title:      My First Post 				# 标题 
 subtitle:   Hello World, Hello Blog #副标题
 date:       2017-02-06 				# 时间
-author:     BY 						# 作者
+author:     记得要让着本宝宝						# 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签

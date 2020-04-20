@@ -12,7 +12,7 @@ tags:
     - Git
 ---
 
-> 本文发布于 [BY Blog](http://ckjcode.gitee.io)、[简书](http://www.jianshu.com/p/d2d98298b1b8) 转载请保留链接
+> 本文发布于 [记得要让着本宝宝Blog](http://ckjcode.gitee.io)、[简书](http://www.jianshu.com/p/d2d98298b1b8) 转载请保留链接
 
 # 前言
 
