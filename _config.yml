@@ -2,13 +2,12 @@
 title: 谷雨霖 Blog
 SEOTitle: 谷雨霖 | BLOG
 header-img: img/post-bg-desk.jpg
-email: ischeng.kejun@gmail.com
+email: df_business@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, 谷雨霖 Blog, 谷雨霖的博客"
-url: "http://ckjcode.gitee.io"          # your host, for absolute URL
+url: "https://df-business.github.io/"          # your host, for absolute URL
 baseurl: ""
-#baseurl: "/bom" # the subpath of your site, e.g. /blog      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://gitee.com/ckjcode/ckjcode" # you code repository
+github_repo: "https://github.com/df-business/df-business.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
