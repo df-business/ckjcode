@@ -3,15 +3,15 @@ title: 谷雨霖 Blog
 SEOTitle: 谷雨霖 | BLOG
 header-img: img/post-bg-desk.jpg
 email: df_business@qq.com
-description: "Every failure is leading towards success."
-keyword: "BY, 谷雨霖 Blog, 谷雨霖的博客"
+description: "失败乃成功之母"
+keyword: "谷雨霖 Blog, 谷雨霖的博客"
 url: "https://df-business.github.io/"          # your host, for absolute URL
 baseurl: ""
 github_repo: "https://github.com/df-business/df-business.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "目标决定你的未来！"
 sidebar-avatar: /img/WX20190805-183950@2x.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -20,7 +20,7 @@ sidebar-avatar: /img/WX20190805-183950@2x.png      # use absolute URL, seeing it
 RSS: false
 # weibo_username:     ckjcode
 # zhihu_username:     ckjcode
-# github_username:    ckjcode
+github_username:    df-business
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 #twitter_username:   ckjcode
