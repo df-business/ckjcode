@@ -17,13 +17,13 @@ sidebar-avatar: /img/WX20190805-183950@2x.png      # use absolute URL, seeing it
 
 
 # SNS settings
-RSS: false
-# weibo_username:     ckjcode
-# zhihu_username:     ckjcode
+RSS: true
+weibo_username:     df315
+zhihu_username:     df_df
 github_username:    df-business
-# facebook_username:  baiying.qiu.7
-# jianshu_username:   e71990ada2fd
-#twitter_username:   ckjcode
+facebook_username:  1364621684
+jianshu_username:   14a5b00dd331
+twitter_username:   df573270407
 
 
 
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 3bea69473b3a33474b94                            #生成的clientID
-  clientSecret: 0bc2fff2064a2e3d6fa0068641c0e31eedee6fd8    #生成的clientSecret
-  repo: ChengKeJ.github.io    #仓库名称
-  owner: ChengKeJ    #github用户名
-  admin: ChengKeJ
+  clientID: 05fe5f684891eef09089                            #生成的clientID
+  clientSecret: ecdbb7b6fcef1ba94e6ef58a2a973902f3ed29ad    #生成的clientSecret
+  repo: df-business.github.io    #仓库名称
+  owner: df-business    #github用户名
+  admin: df-business
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -97,20 +97,14 @@ service-worker: true
 
 
  #Friends
-#  friends: [
-#      {
-#          title: "WY",
-#          href: "http://zhengwuyang.com"
-#      },{
-#          title: "简书·BY",
-#          href: "http://www.jianshu.com/u/e71990ada2fd"
-#      },{
-#          title: "Apple",
-#          href: "https://apple.com"
-#      },{
-#          title: "Apple Developer",
-#          href: "https://developer.apple.com/"
-#      }
-#  ]
+ friends: [
+     {
+         title: "Df书城_享受免费阅读，畅享精彩人生",
+         href: "https://www.df315.top"
+     },{
+         title: "Dfer影院_畅享高清电影和电视剧的免费在线观影乐园",
+         href: "https://www.dfer.fun/"
+     }
+ ]
 
 theme: jekyll-theme-slate
