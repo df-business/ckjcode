@@ -97,14 +97,14 @@ service-worker: true
 
 
  #Friends
- friends: [
-     {
-         title: "Df书城_享受免费阅读，畅享精彩人生",
-         href: "https://www.df315.top"
-     },{
-         title: "Dfer影院_畅享高清电影和电视剧的免费在线观影乐园",
-         href: "https://www.dfer.fun/"
-     }
- ]
+friends: [
+{
+ title: "Df书城_享受免费阅读，畅享精彩人生",
+ href: "https://www.df315.top"
+},{
+ title: "Dfer影院_畅享高清电影和电视剧的免费在线观影乐园",
+ href: "https://www.dfer.fun/"
+}
+]
 
 theme: jekyll-theme-slate
